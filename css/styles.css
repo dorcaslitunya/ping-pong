@@ -26,9 +26,9 @@
   height:80vh;
 }
 #game{
-  background-color:#D5D5D5 ;
+  background-image: url(../img/6.jpg);
   height: 80vh;
 }
 #break{
-  background-color: #D5D5D5;
+  background-color: #D5D5D5
 }
