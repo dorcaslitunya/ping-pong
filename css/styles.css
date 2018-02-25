@@ -1,0 +1,34 @@
+#heady {
+  background-color: #E9D599;
+  width: 100vw
+}
+
+#jumbo {
+  background-color: #E9D599;
+  text-align: center;
+}
+
+#ping {
+  font-size: 30px;
+  font-weight: bold;
+}
+#about{
+  font-weight: bold;
+  color: #E9D599;
+  font-size: 15px;
+}
+#info{
+  color: white;
+  font-weight: bold;
+}
+#nav{
+  background-color: #9EBD6E;
+  height:80vh;
+}
+#game{
+  background-color:#D5D5D5 ;
+  height: 80vh;
+}
+#break{
+  background-color: #D5D5D5;
+}
