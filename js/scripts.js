@@ -27,3 +27,25 @@ var answer = function(display) {
     }
   }
 }
+
+//image slider
+
+var imageSlider = document.getElementById('heady');
+
+var images = ["url('img/1.jpg')", "url('img/2.jpg')", "url('img/3.jpg')", "url('img/4.jpg')"];
+
+
+  var counter = 0;
+
+function carousel() {
+  imageSlider.style.backgroundImage = images[counter];
+
+  counter++;
+
+
+  if (counter > 3) {
+    counter = 0;
+  }
+  console.log("dorcas")
+}
+setInterval(carousel, 3000)

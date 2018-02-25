@@ -1,12 +1,10 @@
 #heady {
   background-color: #E9D599;
-  width: 100vw
+  width: 100vw;
+  height:50vh;
 }
 
-#jumbo {
-  background-color: #E9D599;
-  text-align: center;
-}
+
 
 #ping {
   font-size: 30px;
