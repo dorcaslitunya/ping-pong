@@ -1,12 +1,12 @@
 # Ping Pong.
-####A fun mathematical game to play! version 1 as at 23rd February 2018
+A fun mathematical game to play! version 1 as at 23rd February 2018
 #### By Dorcas Litunya
 ## Description
 A game that allows the user to enter a number and returns ping for multiples of 3, pong for multiples of 5 and pingpong for multiples of 15 for a given number
 
 
 ## Specifications
-* It can count upto 1000:
+* It is limitless!!!
 #### example Input1: 2
 #### example Output:[1,2]
 #### example Input2:3
@@ -21,4 +21,4 @@ This project was created using HTML, CSS(custom CSS and Bootstrap version 3.3.7)
 If you run into any issues or have any suggestions to make the program work better Please feel free to contact me at anonolitunya@gmail.com
 ### License
 MIT License
-Copyright (c) 2018 ** Dorcas Litunya 
+Copyright (c) 2018 ** Dorcas Litunya
